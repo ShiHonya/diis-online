@@ -26,7 +26,7 @@
 "changing-language-will-reset-unsaved-work": {
 	"en": "Changing language will reset unsaved work.",
 	"ar": "",
-	"ku": "",
+	"ku": "گەر زمانەکە بگۆڕیت، ئەوا ئەو تێکستەی نوسیوتەو هێشتا خەزن نەبووە، دەبێ دووبارە بینوسیتەوە",
 	"tr": "" },
 	
 "close": {
@@ -164,7 +164,7 @@
 "destroy-racist-ignorance": {
 	"en": "Destroy racist ignorance.",
 	"ar": "",
-	"ku": "بێ ئاگایی ڕەگەزپەرستی لەناوبەرە",
+	"ku": "بێ ئاگایی لە ڕەگەزپەرستی مەهێڵە",
 	"tr": "" },
 
 "tell-your-story": {
@@ -176,7 +176,7 @@
 "reclaim-your-voice": {
 	"en": "Reclaim your voice.",
 	"ar": "",
-	"ku": "دەنگت بەدەستبهێنەوە",
+	"ku": "دەنگت بەدەستبهێنەرەوە",
 	"tr": "" },
 
 "speak-directly-to-the-world": {
@@ -308,13 +308,13 @@
 "check-for-updates": {
 	"en": "Check for updates.",
 	"ar": "",
-	"ku": "",
+	"ku": "بزانە ئەپدەیت هەیە",
 	"tr": "" },
 
 "add-annotation": {
 	"en": "Add annotation.",
 	"ar": "",
-	"ku": "",
+	"ku": "تێبینی بنوسە",
 	"tr": "" }
 
 	}
