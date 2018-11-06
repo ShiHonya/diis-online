@@ -5,7 +5,7 @@
 	"en": "weeping",
 	"ar_fem": "باكية",
 	"ar_mas": "باكي",
-	"ku": "",
+	"ku": "gryan",
 	"tr": "aglayan" },
 	
 "liquid": {
@@ -13,7 +13,7 @@
 	"en": "fluid",
 	"ar_fem": "سائل",
 	"ar_mas": "سائل",
-	"ku": "",
+	"ku": "Shl",
 	"tr": "" },
 	
 "furious": {
@@ -21,7 +21,7 @@
 	"en": "furious",
 	"ar_fem": "غاضبة",
 	"ar_mas": "غاضب",
-	"ku": "",
+	"ku": "tura",
 	"tr": "" },
 
 "forgotten": {
@@ -29,7 +29,7 @@
 	"en": "forgotten",
 	"ar_fem": "منسية",
 	"ar_mas": "منسي",
-	"ku": "",
+	"ku": "labirkraw",
 	"tr": "" },
 	
 "riotous": {
@@ -37,7 +37,7 @@
 	"en": "riotous",
 	"ar_fem": "مشاغبة",
 	"ar_mas": "مشاغب",
-	"ku": "",
+	"ku": "Azhawachi",
 	"tr": "" },
 
 "sinking": {
@@ -45,7 +45,7 @@
 	"en": "sinking",
 	"ar_fem": "غارقة",
 	"ar_mas": "غارق",
-	"ku": "",
+	"ku": "nwqmbw",
 	"tr": "" },
 
 "welcoming": {
@@ -53,7 +53,7 @@
 	"en": "welcoming",
 	"ar_fem": "مرحبة",
 	"ar_mas": "مرحب",
-	"ku": "",
+	"ku": "rwxosh",
 	"tr": "" },
 
 "freed": {
@@ -61,7 +61,7 @@
 	"en": "freed",
 	"ar_fem": "متحررة",
 	"ar_mas": "متحرر",
-	"ku": "",
+	"ku": "azadkarw",
 	"tr": "" },
 
 "nameless": {
@@ -69,7 +69,7 @@
 	"en": "nameless",
 	"ar_fem": "مجهولة",
 	"ar_mas": "مجهول",
-	"ku": "",
+	"ku": "benaw",
 	"tr": "" },
 	
 "shimmery": {
@@ -77,7 +77,7 @@
 	"en": "shimmery",
 	"ar_fem": "لامعة",
 	"ar_mas": "لامع",
-	"ku": "",
+	"ku": "drawshawa",
 	"tr": "" },
 	
 "blazing": {
@@ -85,7 +85,7 @@
 	"en": "blazing",
 	"ar_fem": "متوهجة",
 	"ar_mas": "متوهج",
-	"ku": "",
+	"ku": "blesa",
 	"tr": "" },
 
 "heavy": {
@@ -93,7 +93,7 @@
 	"en": "heavy",
 	"ar_fem": "ثقيلة",
 	"ar_mas": "ثقيل",
-	"ku": "",
+	"ku": "qwrs",
 	"tr": "" },
 	
 "heavenly": {
@@ -109,7 +109,7 @@
 	"en": "vast",
 	"ar_fem": "شاسعة",
 	"ar_mas": "شاسع",
-	"ku": "",
+	"ku": "barfrawan",
 	"tr": "" },
 
 "thoughtful": {
@@ -117,7 +117,7 @@
 	"en": "thoughtful",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "hoshyar",
 	"tr": "" },
 	
 "electric": {
@@ -125,7 +125,7 @@
 	"en": "",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "karabaii",
 	"tr": "" },
 
 "black": {
@@ -133,7 +133,7 @@
 	"en": "black",
 	"ar_fem": "",
 	"ar_mas": "سوداء",
-	"ku": "راشی",
+	"ku": "rash",
 	"tr": "siyah" },
 
 "white": {
@@ -141,7 +141,7 @@
 	"en": "white",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "spi",
 	"tr": "" },
 	
 "gray": {
@@ -149,7 +149,7 @@
 	"en": "gray",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "xolameshi",
 	"tr": "" },
 	
 "cement": {
@@ -157,7 +157,7 @@
 	"en": "cement",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "chimanto",
 	"tr": "" },
 	
 "green": {
@@ -165,7 +165,7 @@
 	"en": "green",
 	"ar_fem": "",
 	"ar_mas": "أخضر",
-	"ku": "",
+	"ku": "sawz",
 	"tr": "" },
 	
 "blue": {
@@ -173,7 +173,7 @@
 	"en": "blue",
 	"ar_fem": "",
 	"ar_mas": "أزرق",
-	"ku": "",
+	"ku": "shin",
 	"tr": "" },
 	
 "purple": {
@@ -181,7 +181,7 @@
 	"en": "purple",
 	"ar_fem": "",
 	"ar_mas": "أرجواني",
-	"ku": "",
+	"ku": "mor",
 	"tr": "" },
 
 "red": {
@@ -189,7 +189,7 @@
 	"en": "red",
 	"ar_fem": "",
 	"ar_mas": "أحمر",
-	"ku": "",
+	"ku": "swr",
 	"tr": "" },
 	
 "moonlit": {
@@ -197,7 +197,7 @@
 	"en": "moonlit",
 	"ar_fem": "",
 	"ar_mas": "مقمر",
-	"ku": "",
+	"ku": "mangashaw",
 	"tr": "" },
 	
 "turqoise": {
@@ -205,7 +205,7 @@
 	"en": "turqoise",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "pirozayi",
 	"tr": "" },
 
 "orange": {
@@ -213,7 +213,7 @@
 	"en": "orange",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "prtaqali",
 	"tr": "" },
 	
 "colorless": {
@@ -221,7 +221,7 @@
 	"en": "colorless",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "berang",
 	"tr": "" },
 
 "opaque": {
@@ -229,7 +229,7 @@
 	"en": "opaque",
 	"ar_fem": "مبهمة",
 	"ar_mas": "مبهم",
-	"ku": "",
+	"ku": "lel",
 	"tr": "" },
 
 "smoke": {
@@ -237,7 +237,7 @@
 	"en": "smoke",
 	"ar_fem": "",
 	"ar_mas": "دخان",
-	"ku": "دخان",
+	"ku": "dwkal",
 	"tr": "duman" },
 
 "culture": {
@@ -245,7 +245,7 @@
 	"en": "culture",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "kaltur",
 	"tr": "" },
 	
 "mind": {
@@ -253,7 +253,7 @@
 	"en": "mind",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "bir",
 	"tr": "" },
 	
 "idea": {
@@ -261,7 +261,7 @@
 	"en": "idea",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "biroka",
 	"tr": "" },
 
 "window": {
@@ -269,7 +269,7 @@
 	"en": "window",
 	"ar_fem": "نافذة",
 	"ar_mas": "",
-	"ku": "په‌نجه‌ره‌",
+	"ku": "panjara",
 	"tr": "pencere" },
 
 "moon": {
@@ -277,7 +277,7 @@
 	"en": "moon",
 	"ar_fem": "",
 	"ar_mas": "قمر",
-	"ku": "",
+	"ku": "mang",
 	"tr": "" },
 
 "sun": {
@@ -285,7 +285,7 @@
 	"en": "sun",
 	"ar_fem": "",
 	"ar_mas": "شمس",
-	"ku": "",
+	"ku": "xor",
 	"tr": "" },
 
 "river": {
@@ -293,7 +293,7 @@
 	"en": "river",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "rwbar",
 	"tr": "" },
 
 "sunflower": {
@@ -301,7 +301,7 @@
 	"en": "sunflower",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "gulabarozha",
 	"tr": "" },
 
 "daffodil": {
@@ -309,7 +309,7 @@
 	"en": "daffodil",
 	"ar_fem": "",
 	"ar_mas": "نرجس",
-	"ku": "",
+	"ku": "nergiz",
 	"tr": "" },
 
 "lily": {
@@ -317,7 +317,7 @@
 	"en": "lily",
 	"ar_fem": "",
 	"ar_mas": "زنبق",
-	"ku": "",
+	"ku": "gulasher",
 	"tr": "" },
 
 "loop": {
@@ -325,7 +325,7 @@
 	"en": "loop",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "gre",
 	"tr": "" },
 	
 "symbol": {
@@ -333,7 +333,7 @@
 	"en": "symbol",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "hema",
 	"tr": "" },
 	
 "violence": {
@@ -341,7 +341,7 @@
 	"en": "violence",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "twndwtizhi",
 	"tr": "" },
 	
 "peace": {
@@ -349,7 +349,7 @@
 	"en": "peace",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "ashti",
 	"tr": "" },
 	
 "fragment": {
@@ -357,7 +357,7 @@
 	"en": "fragment",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "parcha",
 	"tr": "" },
 
 "horizon": {
@@ -365,7 +365,7 @@
 	"en": "horizon",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "aso",
 	"tr": "" },
 
 "clock": {
@@ -373,7 +373,7 @@
 	"en": "clock",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "katzhmer",
 	"tr": "" },
 	
 "chamber": {
@@ -381,7 +381,7 @@
 	"en": "chamber",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "zhwr",
 	"tr": "" },
 
 "pearl": {
@@ -389,7 +389,7 @@
 	"en": "pearl",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "mrwari",
 	"tr": "" },
 
 "shadow": {
@@ -397,7 +397,7 @@
 	"en": "shadow",
 	"ar_fem": "",
 	"ar_mas": "ظل",
-	"ku": "",
+	"ku": "sebar",
 	"tr": "gölge" },
 
 "nectar": {
@@ -413,7 +413,7 @@
 	"en": "thread",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "shilaigul",
 	"tr": "" },
 
 "dune": {
@@ -421,7 +421,7 @@
 	"en": "dune",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "grdola",
 	"tr": "" },
 	
 "wind": {
@@ -429,7 +429,7 @@
 	"en": "wind",
 	"ar_fem": "",
 	"ar_mas": "ينفخ",
-	"ku": "",
+	"ku": "ba",
 	"tr": "rüzgar" },
 
 "prayer": {
@@ -437,7 +437,7 @@
 	"en": "prayer",
 	"ar_fem": "صلاة",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "dwa",
 	"tr": "" },
 	
 "marble": {
@@ -445,7 +445,7 @@
 	"en": "marble",
 	"ar_fem": "كرة",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "halmat",
 	"tr": "misket" },
 	
 "nationalism": {
@@ -453,7 +453,7 @@
 	"en": "nationalism",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "nishtmanparwari",
 	"tr": "" },
 
 "message": {
@@ -461,7 +461,7 @@
 	"en": "message",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "payam",
 	"tr": "" },
 	
 "whistle": {
@@ -469,7 +469,7 @@
 	"en": "whistle",
 	"ar_fem": "صفارة",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "fika",
 	"tr": "düdük" },
 	
 "doorway": {
@@ -477,7 +477,7 @@
 	"en": "doorway",
 	"ar_fem": "مدخل",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "bardarga",
 	"tr": "kapı" },
 
 "bottle": {
@@ -485,7 +485,7 @@
 	"en": "bottle",
 	"ar_fem": "زجاجة",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "shwsha",
 	"tr": "şişe" },
 
 "vein": {
@@ -493,7 +493,7 @@
 	"en": "vein",
 	"ar_fem": "",
 	"ar_mas": "عرق",
-	"ku": "",
+	"ku": "damar",
 	"tr": "damar" },
 	
 "prism": {
@@ -501,7 +501,7 @@
 	"en": "prism",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "aweza",
 	"tr": "" },
 	
 "rage": {
@@ -509,7 +509,7 @@
 	"en": "rage",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "twraii",
 	"tr": "" },
 	
 "century": {
@@ -517,6 +517,6 @@
 	"en": "century",
 	"ar_fem": "",
 	"ar_mas": "",
-	"ku": "",
+	"ku": "sada",
 	"tr": "" }
 }
